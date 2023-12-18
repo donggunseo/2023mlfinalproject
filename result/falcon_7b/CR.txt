@@ -1,0 +1,25 @@
+42 
+ robustness_raw : 0.9712765957446805 
+ robustness_cc : 0.9688829787234041 
+ accuracy_raw : 0.7696808510638298 
+ accuracy_cc : 0.9018617021276596 
+41 
+ robustness_raw : 0.9598404255319145 
+ robustness_cc : 0.9757978723404255 
+ accuracy_raw : 0.8055851063829786 
+ accuracy_cc : 0.9061170212765954 
+40 
+ robustness_raw : 0.9707446808510636 
+ robustness_cc : 0.977127659574468 
+ accuracy_raw : 0.7749999999999999 
+ accuracy_cc : 0.9127659574468086 
+39 
+ robustness_raw : 0.970478723404255 
+ robustness_cc : 0.9757978723404254 
+ accuracy_raw : 0.7992021276595744 
+ accuracy_cc : 0.9077127659574467 
+38 
+ robustness_raw : 0.9617021276595744 
+ robustness_cc : 0.9752659574468083 
+ accuracy_raw : 0.7914893617021276 
+ accuracy_cc : 0.9119680851063828 

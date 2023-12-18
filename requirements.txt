@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+sentencepiece
+protobuf
+scikit-learn
+scipy
